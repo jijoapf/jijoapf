@@ -1,16 +1,31 @@
-## Hi there 👋
+# jijo_francis.yaml
+name:           "Jijo Francis"
+location:       "Dubai, UAE (Sharjah Resident)"
+role:           "Senior HR Manager | HR Business Partner"
+experience:     "12+ Years across UAE · Qatar · India"
 
-<!--
-**jijoapf/jijoapf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+core_expertise:
+  - "HR Business Partnering & Strategic Workforce Planning"
+  - "Talent Acquisition & End-to-End Recruitment"
+  - "UAE Labour Law · MOHRE · Emiratization (Tawteen/NAFIS)"
+  - "Performance Management (KPI / OKR / IDP)"
+  - "Compensation, Benefits & WPS Payroll"
+  - "Organisational Development & Change Management"
 
-Here are some ideas to get you started:
+hris_tools:
+  - "Oracle PeopleSoft"
+  - "BioTime ZKTeco"
+  - "LinkedIn Recruiter · Bayt.com"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+analytics_stack:
+  - "Power BI"
+  - "SPSS"
+  - "Advanced Excel (Pivot · Dashboards)"
+
+currently_learning:
+  - "AI-Powered HR Automation → n8n · Claude AI · Copilot"
+  - "People Analytics → Predictive Attrition Modelling"
+  - "Digital HR Transformation → HRIS Implementation"
+
+fun_fact:       "HR by day, SMC/ICT trader by night 📈"
+motto:          "People are strategy. Everything else is execution."
